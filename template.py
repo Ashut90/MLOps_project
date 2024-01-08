@@ -3,7 +3,7 @@ from pathlib import Path
 
 list_of_files = [
 
-    ".github/worflows",
+    ".github/worflows/.gitkeep",
     "src/__init__.py",
     "src/components/__init__.py",
     "src/components/data_ingertion.py",
